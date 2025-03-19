@@ -1,4 +1,4 @@
-timestamp,germany,net_export,total_grid_load,residual_load,hydro_pumped_storage,biomass,hydropower,wind_offshore,wind_onshore,photovoltaics,other_renewable,lignite,hard_coal,fossil_gas,other_conventional
+timestamp,energy_price,net_export,total_grid_load,residual_load,hydro_pumped_storage,biomass,hydropower,wind_offshore,wind_onshore,photovoltaics,other_renewable,lignite,hard_coal,fossil_gas,other_conventional
 2023-01-01 00:00:00,-5.17,12001.75,38346.0,6575.0,1101.0,4014.25,1275.25,3059.25,28710.5,1.25,129.5,3859.25,2067.5,1817.75,1228.75
 2023-01-01 01:00:00,-1.07,14244.25,37777.25,4885.25,1035.125,3993.25,1226.5,3586.0,29305.0,1.0,129.0,3866.5,2052.0,1663.25,1218.25
 2023-01-01 02:00:00,-1.47,13897.5,36939.75,3830.25,1595.875,3967.25,1222.5,3842.25,29266.0,1.25,129.0,3860.25,2034.25,1666.75,1211.5
